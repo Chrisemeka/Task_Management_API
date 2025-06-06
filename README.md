@@ -9,7 +9,6 @@ A RESTful API for managing tasks with user authentication built with Node.js, Ex
 - **JWT Authorization**: Secure API endpoints with JSON Web Tokens
 - **Database Integration**: SQLite database with Prisma ORM
 - **TypeScript**: Full type safety and better development experience
-- **Input Validation**: Request validation using Zod
 - **Error Handling**: Centralized error handling middleware
 
 ## Tech Stack
