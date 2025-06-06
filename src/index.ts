@@ -7,7 +7,7 @@ import errorHandler from './middleware/errorHandler';
 
 const app: Express = express(); // create an Express app
 dotenv.config()
-const port = process.env.PORT; // port number
+const port = process.env.PORT || 5000; // port number
 
 // allows the server to parse JSON data
 app.use(express.json());
