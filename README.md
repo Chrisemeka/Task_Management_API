@@ -21,7 +21,6 @@ A RESTful API for managing tasks with user authentication built with Node.js, Ex
 - **ORM**: Prisma
 - **Authentication**: JWT (JSON Web Tokens)
 - **Password Hashing**: bcryptjs
-- **Validation**: Zod
 - **Development**: Nodemon for hot reloading
 
 ## Prerequisites
